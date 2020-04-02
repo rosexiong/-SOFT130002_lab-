@@ -1,0 +1,40 @@
+nav>a.navv{
+    color: white;
+    font-size: x-large;
+
+}
+nav{
+    background-color: #64a8ff;
+}
+aside{
+    float: right;
+    background-color: #4f8aaa;
+
+}
+aside>li>a.havv{
+    font-size: x-large;
+    color: white;
+
+}
+aside>pm{
+    font-size: x-large;
+    color: white;
+}
+article{
+    background-color: azure;
+
+}
+h4{
+    font-size: large;
+
+}
+small{
+    background-color: #4f8aaa;
+}
+article>p{
+    display: block;
+    margin: 1.5em 0;
+    font-weight: bold;
+}
+
+
