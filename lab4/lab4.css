@@ -1,0 +1,24 @@
+.carousel {
+    width:1500px;
+    height:800px;
+}
+.item>img{
+  width: 100%;
+    height: 100%;
+}
+nav>button{
+    padding-left: 900px;
+    position: center;
+}
+nav{
+    background-color: black;
+}
+nav>a{
+    color: white;
+}
+footer{
+    background-color:black;
+}
+footer>span{
+    color: white;
+}
