@@ -1,0 +1,2 @@
+困难：不知道如何一次性插入照片
+解决：使用循环 ，然后photos.src=works.photos[i];
