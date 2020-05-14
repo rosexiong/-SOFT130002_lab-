@@ -160,7 +160,7 @@ function twoSum(nums, target) {
     ⑤str为字符串。
 */
 function lengthOfLongestSubstring(str) {
-    count map=new Map();
+    countmap=new Map();
     let n=0;
     for (let i=0;i<str.length;i++){
         if (!map.has(str[i])){
