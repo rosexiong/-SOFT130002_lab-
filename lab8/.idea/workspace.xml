@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b02da16-237f-448e-a3d9-4fab6a20e731" name="Default Changelist" comment="" />
+    <list default="true" id="6b02da16-237f-448e-a3d9-4fab6a20e731" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cKwMBUfnzn5j4hVAPmRv8gW2os" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -36,6 +44,7 @@
       <workItem from="1590328133786" duration="1055000" />
       <workItem from="1590329280041" duration="400000" />
       <workItem from="1590329905789" duration="933000" />
+      <workItem from="1591239759096" duration="2608000" />
     </task>
     <servers />
   </component>
